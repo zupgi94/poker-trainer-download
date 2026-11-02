@@ -21,3 +21,17 @@ An AI poker trainer for Hold'em, 4-card PLO and 5-card PLO that explains every a
 3. If Play Protect warns you, choose **Install anyway**.
 
 Android 7.0 이상 · 설치 후 인터넷 없이 동작 · Android 7.0+ · works offline after installing.
+
+## 🖥 Windows (English)
+
+| | Download |
+|---|---|
+| Installer (Start menu + desktop shortcut) | [PokerTrainer-EN-Windows-Setup.exe](https://github.com/zupgi94/poker-trainer-download/raw/main/PokerTrainer-EN-Windows-Setup.exe) |
+| Portable (no install, just run) | [PokerTrainer-EN-Windows-Portable.exe](https://github.com/zupgi94/poker-trainer-download/raw/main/PokerTrainer-EN-Windows-Portable.exe) |
+
+**How to install**
+1. Download the EXE and run it (Windows 10/11, 64-bit).
+2. If "Windows protected your PC" appears, click **More info → Run anyway** (the app is not code-signed).
+3. The installer adds Start menu and desktop shortcuts; the portable version runs without installing.
+
+Works offline. Keyboard shortcuts: N next hand · ←/→ step · A–D answer · Enter continue · Q quiz · S stats.
